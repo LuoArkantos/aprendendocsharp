@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\bin\Debug\net6.0\2- Variaveis.exe
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\bin\Debug\net6.0\2- Variaveis.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\bin\Debug\net6.0\2- Variaveis.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\bin\Debug\net6.0\2- Variaveis.dll
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\bin\Debug\net6.0\2- Variaveis.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\2- Variaveis.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\2- Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\2- Variaveis.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\2- Variaveis.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\2- Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\2- Variaveis.dll
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\refint\2- Variaveis.dll
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\2- Variaveis.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\2- Variaveis.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\2- Variaveis\obj\Debug\net6.0\ref\2- Variaveis.dll

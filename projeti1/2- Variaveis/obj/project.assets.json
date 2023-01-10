@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\aprendendocsharp\\projeti1\\Ola Mundo\\1- Ola Mundo.csproj",
-      "projectName": "1- Ola Mundo",
-      "projectPath": "C:\\Users\\Asus\\aprendendocsharp\\projeti1\\Ola Mundo\\1- Ola Mundo.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\aprendendocsharp\\projeti1\\2- Variaveis\\2- Variaveis.csproj",
+      "projectName": "2- Variaveis",
+      "projectPath": "C:\\Users\\Asus\\aprendendocsharp\\projeti1\\2- Variaveis\\2- Variaveis.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\aprendendocsharp\\projeti1\\Ola Mundo\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\aprendendocsharp\\projeti1\\2- Variaveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
