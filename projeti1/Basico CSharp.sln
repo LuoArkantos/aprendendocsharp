@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1- Ola Mundo", "Ola Mundo\1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2- Variaveis", "2- Variaveis\2- Variaveis.csproj", "{C8F1FD79-0C1D-4828-BAB5-AD03F5830656}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3- Variaveis Double (tipo float do py)", "3- Variaveis Double (tipo float do py)\3- Variaveis Double (tipo float do py).csproj", "{2ACBAA84-7877-43FE-92B8-63D9EE2D6573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4- Conversao e Outros Tipos", "3- Conversao e Outros Tipos\4- Conversao e Outros Tipos.csproj", "{3AA6DBE6-FD3C-40B3-A600-80E9F8AA7694}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{C8F1FD79-0C1D-4828-BAB5-AD03F5830656}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F1FD79-0C1D-4828-BAB5-AD03F5830656}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F1FD79-0C1D-4828-BAB5-AD03F5830656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACBAA84-7877-43FE-92B8-63D9EE2D6573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACBAA84-7877-43FE-92B8-63D9EE2D6573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACBAA84-7877-43FE-92B8-63D9EE2D6573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACBAA84-7877-43FE-92B8-63D9EE2D6573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA6DBE6-FD3C-40B3-A600-80E9F8AA7694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA6DBE6-FD3C-40B3-A600-80E9F8AA7694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA6DBE6-FD3C-40B3-A600-80E9F8AA7694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA6DBE6-FD3C-40B3-A600-80E9F8AA7694}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\bin\Debug\net6.0\3- Variaveis Double (tipo float do py).exe
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\bin\Debug\net6.0\3- Variaveis Double (tipo float do py).deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\bin\Debug\net6.0\3- Variaveis Double (tipo float do py).runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\bin\Debug\net6.0\3- Variaveis Double (tipo float do py).dll
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\bin\Debug\net6.0\3- Variaveis Double (tipo float do py).pdb
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\3- Variaveis Double (tipo float do py).csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\3- Variaveis Double (tipo float do py).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\3- Variaveis Double (tipo float do py).AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\3- Variaveis Double (tipo float do py).AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\3- Variaveis Double (tipo float do py).csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\3- Variaveis Double (tipo float do py).dll
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\refint\3- Variaveis Double (tipo float do py).dll
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\3- Variaveis Double (tipo float do py).pdb
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\3- Variaveis Double (tipo float do py).genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\3- Variaveis Double (tipo float do py)\obj\Debug\net6.0\ref\3- Variaveis Double (tipo float do py).dll

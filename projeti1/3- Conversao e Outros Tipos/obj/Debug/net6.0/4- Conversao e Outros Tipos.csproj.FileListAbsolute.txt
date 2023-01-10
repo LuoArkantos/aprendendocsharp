@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\bin\Debug\net6.0\4- Conversao e Outros Tipos.exe
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\bin\Debug\net6.0\4- Conversao e Outros Tipos.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\bin\Debug\net6.0\4- Conversao e Outros Tipos.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\bin\Debug\net6.0\4- Conversao e Outros Tipos.dll
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\bin\Debug\net6.0\4- Conversao e Outros Tipos.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\4- Conversao e Outros Tipos.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\4- Conversao e Outros Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\4- Conversao e Outros Tipos.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\4- Conversao e Outros Tipos.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\4- Conversao e Outros Tipos.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\4- Conversao e Outros Tipos.dll
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\refint\4- Conversao e Outros Tipos.dll
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\4- Conversao e Outros Tipos.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\4- Conversao e Outros Tipos.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\3- Conversao e Outros Tipos\obj\Debug\net6.0\ref\4- Conversao e Outros Tipos.dll
