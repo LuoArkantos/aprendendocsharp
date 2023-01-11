@@ -5,13 +5,19 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1- Ola Mundo", "Ola Mundo\1- Ola Mundo.csproj", "{00839EC3-A15A-4034-A491-24A2F2CEFFF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2- Variaveis", "2- Variaveis\2- Variaveis.csproj", "{C8F1FD79-0C1D-4828-BAB5-AD03F5830656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2- Variaveis", "2- Variaveis\2- Variaveis.csproj", "{C8F1FD79-0C1D-4828-BAB5-AD03F5830656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3- Variaveis Double (tipo float do py)", "3- Variaveis Double (tipo float do py)\3- Variaveis Double (tipo float do py).csproj", "{2ACBAA84-7877-43FE-92B8-63D9EE2D6573}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3- Variaveis Double (tipo float do py)", "3- Variaveis Double (tipo float do py)\3- Variaveis Double (tipo float do py).csproj", "{2ACBAA84-7877-43FE-92B8-63D9EE2D6573}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4- Conversao e Outros Tipos", "3- Conversao e Outros Tipos\4- Conversao e Outros Tipos.csproj", "{3AA6DBE6-FD3C-40B3-A600-80E9F8AA7694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4- Conversao e Outros Tipos", "3- Conversao e Outros Tipos\4- Conversao e Outros Tipos.csproj", "{3AA6DBE6-FD3C-40B3-A600-80E9F8AA7694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5- Caracteres e Textos", "5- Caracteres e Textos\5- Caracteres e Textos.csproj", "{19FD8930-4DD0-4368-B570-D5164FF0A2AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5- Caracteres e Textos", "5- Caracteres e Textos\5- Caracteres e Textos.csproj", "{19FD8930-4DD0-4368-B570-D5164FF0A2AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6- Atribuicao de Variaveis", "6- Atribuicao de Variaveis\6- Atribuicao de Variaveis.csproj", "{93FDE842-1549-4F41-8A47-435DD1A64479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7- Condicionais", "7- Condicionais\7- Condicionais.csproj", "{6D8E0846-6112-49C4-A7BE-485A5945ADA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8- Escopo", "8- Escopo\8- Escopo.csproj", "{CE3DB1CC-1A66-44E3-B417-1CE194C5C3B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{19FD8930-4DD0-4368-B570-D5164FF0A2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19FD8930-4DD0-4368-B570-D5164FF0A2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19FD8930-4DD0-4368-B570-D5164FF0A2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FDE842-1549-4F41-8A47-435DD1A64479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FDE842-1549-4F41-8A47-435DD1A64479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FDE842-1549-4F41-8A47-435DD1A64479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FDE842-1549-4F41-8A47-435DD1A64479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8E0846-6112-49C4-A7BE-485A5945ADA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8E0846-6112-49C4-A7BE-485A5945ADA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8E0846-6112-49C4-A7BE-485A5945ADA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8E0846-6112-49C4-A7BE-485A5945ADA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3DB1CC-1A66-44E3-B417-1CE194C5C3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3DB1CC-1A66-44E3-B417-1CE194C5C3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3DB1CC-1A66-44E3-B417-1CE194C5C3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3DB1CC-1A66-44E3-B417-1CE194C5C3B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

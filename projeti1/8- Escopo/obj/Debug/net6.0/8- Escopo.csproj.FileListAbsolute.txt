@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\8- Escopo.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\8- Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\8- Escopo.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\8- Escopo.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\8- Escopo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\bin\Debug\net6.0\8- Escopo.exe
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\bin\Debug\net6.0\8- Escopo.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\bin\Debug\net6.0\8- Escopo.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\bin\Debug\net6.0\8- Escopo.dll
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\bin\Debug\net6.0\8- Escopo.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\8- Escopo.dll
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\refint\8- Escopo.dll
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\8- Escopo.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\8- Escopo.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\8- Escopo\obj\Debug\net6.0\ref\8- Escopo.dll
