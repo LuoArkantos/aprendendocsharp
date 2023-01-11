@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\bin\Debug\net6.0\5- Caracteres e Textos.exe
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\bin\Debug\net6.0\5- Caracteres e Textos.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\bin\Debug\net6.0\5- Caracteres e Textos.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\bin\Debug\net6.0\5- Caracteres e Textos.dll
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\bin\Debug\net6.0\5- Caracteres e Textos.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\5- Caracteres e Textos.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\5- Caracteres e Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\5- Caracteres e Textos.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\5- Caracteres e Textos.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\5- Caracteres e Textos.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\5- Caracteres e Textos.dll
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\refint\5- Caracteres e Textos.dll
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\5- Caracteres e Textos.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\5- Caracteres e Textos.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\5- Caracteres e Textos\obj\Debug\net6.0\ref\5- Caracteres e Textos.dll
