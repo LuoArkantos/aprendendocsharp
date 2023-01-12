@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\bin\Debug\net6.0\AtividadeAliquotaComIfs.exe
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\bin\Debug\net6.0\AtividadeAliquotaComIfs.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\bin\Debug\net6.0\AtividadeAliquotaComIfs.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\bin\Debug\net6.0\AtividadeAliquotaComIfs.dll
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\bin\Debug\net6.0\AtividadeAliquotaComIfs.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\AtividadeAliquotaComIfs.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\AtividadeAliquotaComIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\AtividadeAliquotaComIfs.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\AtividadeAliquotaComIfs.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\AtividadeAliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\AtividadeAliquotaComIfs.dll
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\refint\AtividadeAliquotaComIfs.dll
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\AtividadeAliquotaComIfs.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\AtividadeAliquotaComIfs.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\AtividadeAliquotaComIfs\obj\Debug\net6.0\ref\AtividadeAliquotaComIfs.dll
