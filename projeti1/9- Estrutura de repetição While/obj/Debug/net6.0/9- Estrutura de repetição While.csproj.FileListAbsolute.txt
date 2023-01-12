@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\bin\Debug\net6.0\9- Estrutura de repetição While.exe
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\bin\Debug\net6.0\9- Estrutura de repetição While.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\bin\Debug\net6.0\9- Estrutura de repetição While.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\bin\Debug\net6.0\9- Estrutura de repetição While.dll
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\bin\Debug\net6.0\9- Estrutura de repetição While.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\9- Estrutura de repetição While.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\9- Estrutura de repetição While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\9- Estrutura de repetição While.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\9- Estrutura de repetição While.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\9- Estrutura de repetição While.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\9- Estrutura de repetição While.dll
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\refint\9- Estrutura de repetição While.dll
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\9- Estrutura de repetição While.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\9- Estrutura de repetição While.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\9- Estrutura de repetição While\obj\Debug\net6.0\ref\9- Estrutura de repetição While.dll

@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4- Conversao e Outros Tipos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5- Caracteres e Textos", "5- Caracteres e Textos\5- Caracteres e Textos.csproj", "{19FD8930-4DD0-4368-B570-D5164FF0A2AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6- Atribuicao de Variaveis", "6- Atribuicao de Variaveis\6- Atribuicao de Variaveis.csproj", "{93FDE842-1549-4F41-8A47-435DD1A64479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6- Atribuicao de Variaveis", "6- Atribuicao de Variaveis\6- Atribuicao de Variaveis.csproj", "{93FDE842-1549-4F41-8A47-435DD1A64479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7- Condicionais", "7- Condicionais\7- Condicionais.csproj", "{6D8E0846-6112-49C4-A7BE-485A5945ADA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7- Condicionais", "7- Condicionais\7- Condicionais.csproj", "{6D8E0846-6112-49C4-A7BE-485A5945ADA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8- Escopo", "8- Escopo\8- Escopo.csproj", "{CE3DB1CC-1A66-44E3-B417-1CE194C5C3B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8- Escopo", "8- Escopo\8- Escopo.csproj", "{CE3DB1CC-1A66-44E3-B417-1CE194C5C3B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeAliquotaComIfs", "AtividadeAliquotaComIfs\AtividadeAliquotaComIfs.csproj", "{46685140-64EA-4C3D-BB9E-6C76891D77F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtividadeAliquotaComIfs", "AtividadeAliquotaComIfs\AtividadeAliquotaComIfs.csproj", "{46685140-64EA-4C3D-BB9E-6C76891D77F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9- Estrutura de repetição While", "9- Estrutura de repetição While\9- Estrutura de repetição While.csproj", "{AE9DB286-ADE9-4A3D-804F-8B245932CE59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{46685140-64EA-4C3D-BB9E-6C76891D77F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46685140-64EA-4C3D-BB9E-6C76891D77F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46685140-64EA-4C3D-BB9E-6C76891D77F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9DB286-ADE9-4A3D-804F-8B245932CE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9DB286-ADE9-4A3D-804F-8B245932CE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9DB286-ADE9-4A3D-804F-8B245932CE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9DB286-ADE9-4A3D-804F-8B245932CE59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
