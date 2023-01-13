@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8- Escopo", "8- Escopo\8- E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtividadeAliquotaComIfs", "AtividadeAliquotaComIfs\AtividadeAliquotaComIfs.csproj", "{46685140-64EA-4C3D-BB9E-6C76891D77F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9- Estrutura de repetição While", "9- Estrutura de repetição While\9- Estrutura de repetição While.csproj", "{AE9DB286-ADE9-4A3D-804F-8B245932CE59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9- Estrutura de repetição While", "9- Estrutura de repetição While\9- Estrutura de repetição While.csproj", "{AE9DB286-ADE9-4A3D-804F-8B245932CE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p10- Estrutura de repeticão For", "p10- Estrutura de repeticão For\p10- Estrutura de repeticão For.csproj", "{DE477C1B-3695-4434-B7B2-860292AC26B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p11- Rendimento Poupança com incremento anual (For encadeado)", "p11- Rendimento Poupança com incremento anual (For encadeado)\p11- Rendimento Poupança com incremento anual (For encadeado).csproj", "{5760CA6F-3F35-4856-AF7F-02A2EC56E248}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{AE9DB286-ADE9-4A3D-804F-8B245932CE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE9DB286-ADE9-4A3D-804F-8B245932CE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE9DB286-ADE9-4A3D-804F-8B245932CE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE477C1B-3695-4434-B7B2-860292AC26B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE477C1B-3695-4434-B7B2-860292AC26B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE477C1B-3695-4434-B7B2-860292AC26B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE477C1B-3695-4434-B7B2-860292AC26B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5760CA6F-3F35-4856-AF7F-02A2EC56E248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5760CA6F-3F35-4856-AF7F-02A2EC56E248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5760CA6F-3F35-4856-AF7F-02A2EC56E248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5760CA6F-3F35-4856-AF7F-02A2EC56E248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

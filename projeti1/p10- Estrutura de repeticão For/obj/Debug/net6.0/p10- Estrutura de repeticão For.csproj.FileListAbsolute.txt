@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\bin\Debug\net6.0\p10- Estrutura de repeticão For.exe
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\bin\Debug\net6.0\p10- Estrutura de repeticão For.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\bin\Debug\net6.0\p10- Estrutura de repeticão For.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\bin\Debug\net6.0\p10- Estrutura de repeticão For.dll
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\bin\Debug\net6.0\p10- Estrutura de repeticão For.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\p10- Estrutura de repeticão For.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\p10- Estrutura de repeticão For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\p10- Estrutura de repeticão For.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\p10- Estrutura de repeticão For.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\p10- Estrutura de repeticão For.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\p10- Estrutura de repeticão For.dll
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\refint\p10- Estrutura de repeticão For.dll
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\p10- Estrutura de repeticão For.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\p10- Estrutura de repeticão For.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\p10- Estrutura de repeticão For\obj\Debug\net6.0\ref\p10- Estrutura de repeticão For.dll
