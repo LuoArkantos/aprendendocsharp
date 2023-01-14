@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\bin\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.exe
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\bin\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\bin\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\bin\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.dll
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\bin\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.dll
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\refint\Exercicio Imprimir multiplos de 3 entre 1 e 100.dll
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\Exercicio Imprimir multiplos de 3 entre 1 e 100.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir multiplos de 3 entre 1 e 100\obj\Debug\net6.0\ref\Exercicio Imprimir multiplos de 3 entre 1 e 100.dll

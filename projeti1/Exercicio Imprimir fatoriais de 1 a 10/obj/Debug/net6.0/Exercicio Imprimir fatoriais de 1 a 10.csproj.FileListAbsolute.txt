@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\bin\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.exe
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\bin\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\bin\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\bin\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.dll
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\bin\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.dll
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\refint\Exercicio Imprimir fatoriais de 1 a 10.dll
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\Exercicio Imprimir fatoriais de 1 a 10.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\Exercicio Imprimir fatoriais de 1 a 10\obj\Debug\net6.0\ref\Exercicio Imprimir fatoriais de 1 a 10.dll

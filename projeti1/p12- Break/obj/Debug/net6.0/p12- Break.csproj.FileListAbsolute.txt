@@ -1,0 +1,15 @@
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\bin\Debug\net6.0\p12- Break.exe
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\bin\Debug\net6.0\p12- Break.deps.json
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\bin\Debug\net6.0\p12- Break.runtimeconfig.json
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\bin\Debug\net6.0\p12- Break.dll
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\bin\Debug\net6.0\p12- Break.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\p12- Break.csproj.AssemblyReference.cache
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\p12- Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\p12- Break.AssemblyInfoInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\p12- Break.AssemblyInfo.cs
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\p12- Break.csproj.CoreCompileInputs.cache
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\p12- Break.dll
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\refint\p12- Break.dll
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\p12- Break.pdb
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\p12- Break.genruntimeconfig.cache
+C:\Users\Asus\aprendendocsharp\projeti1\p12- Break\obj\Debug\net6.0\ref\p12- Break.dll

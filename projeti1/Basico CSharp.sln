@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p10- Estrutura de repeticã
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p11- Rendimento Poupança com incremento anual (For encadeado)", "p11- Rendimento Poupança com incremento anual (For encadeado)\p11- Rendimento Poupança com incremento anual (For encadeado).csproj", "{5760CA6F-3F35-4856-AF7F-02A2EC56E248}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p12- Break", "p12- Break\p12- Break.csproj", "{3086F814-5E59-44AA-B4CC-E4271CFAC29F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio Imprimir multiplos de 3 entre 1 e 100", "Exercicio Imprimir multiplos de 3 entre 1 e 100\Exercicio Imprimir multiplos de 3 entre 1 e 100.csproj", "{9D36F450-C9C9-43A2-829E-81628A276378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio Imprimir fatoriais de 1 a 10", "Exercicio Imprimir fatoriais de 1 a 10\Exercicio Imprimir fatoriais de 1 a 10.csproj", "{D37E23B2-6B68-45C0-AA10-35E590018800}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +87,18 @@ Global
 		{5760CA6F-3F35-4856-AF7F-02A2EC56E248}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5760CA6F-3F35-4856-AF7F-02A2EC56E248}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5760CA6F-3F35-4856-AF7F-02A2EC56E248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3086F814-5E59-44AA-B4CC-E4271CFAC29F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3086F814-5E59-44AA-B4CC-E4271CFAC29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3086F814-5E59-44AA-B4CC-E4271CFAC29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3086F814-5E59-44AA-B4CC-E4271CFAC29F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D36F450-C9C9-43A2-829E-81628A276378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D36F450-C9C9-43A2-829E-81628A276378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D36F450-C9C9-43A2-829E-81628A276378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D36F450-C9C9-43A2-829E-81628A276378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37E23B2-6B68-45C0-AA10-35E590018800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37E23B2-6B68-45C0-AA10-35E590018800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37E23B2-6B68-45C0-AA10-35E590018800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37E23B2-6B68-45C0-AA10-35E590018800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
